@@ -1,0 +1,8 @@
+backend/venv/
+backend/risks.db
+frontend/node_modules/
+frontend/dist/
+.env
+*.pyc
+__pycache__/
+backend/seed.cmd
